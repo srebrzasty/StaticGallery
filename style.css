@@ -56,14 +56,43 @@ h1{
     margin-left: 224px;
 }
 
-#image-author
+#second-placeholder
 {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+/*#image-author
+{
+    display: flex;
     background-color: green;
     width: 398px;
     height: 50px;
-    display: flex;
     margin-left: 113px;
     margin-top: 22px;
 }
+
+#spotify-song
+{
+    display: flex;
+    justify-content: flex-end;
+    background-color: green;
+    width: 400px;
+    height: 50px;
+    margin-left: 113px;
+    margin-top: 22px;
+    border: 2px solid blue;
+}
+
+/*#footer
+{
+    justify-content: center;
+    background-color: green;
+    width: 1356px;
+    height: 50px;
+    margin-left: 113px;
+    margin-top: 22px;
+}
+*/
 
 
