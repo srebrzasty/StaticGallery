@@ -1,87 +1,66 @@
-body{
-    background-color: lightgrey;
+body {
+  background-color: lightgrey;
 }
 
-#navbar, h1
-{
-    display: flex;
-    justify-content: space-around;
+#navbar,
+h1 {
+  display: flex;
+  justify-content: space-around;
 }
 
-h1{
-    font-size: 36px;
+h1 {
+  font-size: 36px;
 }
 
-.menu-bar
-{
-    justify-content: center;
-    font-size: 16px;
-    background-color: aliceblue;
-    padding: 15px;
-    border: 2px solid grey;
-    border-radius: 10%;
+.menu-bar {
+  justify-content: center;
+  font-size: 16px;
+  background-color: aliceblue;
+  padding: 15px;
+  border: 2px solid grey;
+  border-radius: 10%;
 }
 
-
-#placeholder
-{
-    display: flex;
-    margin-left: 113px;
+#placeholder {
+  display: flex;
+  margin-left: 113px;
 }
 
-#image-holder
-{
-    background-color: green;
-    width: 27%;
-    height: 450px;
-    display: flex;
-    margin-top: 45px;
+#image-holder {
+  background-color: green;
+  width: 27%;
+  height: 450px;
+  display: flex;
+  margin-top: 45px;
 }
 
-#SKnR
-{
-    width: 428px;
+#SKnR {
+  width: 428px;
 }
 
-#image-description-holder
-{
-    background-color: rgb(207, 221, 247);
-    display: flex;
-    justify-content: flex-end;
-    text-align: justify;
-    width: 740px;
-    height: 450px;
-    margin-top: 45px;
-    margin-right: 45px;
-    margin-left: 224px;
+#image-description-holder {
+  background-color: rgb(207, 221, 247);
+  display: flex;
+  justify-content: flex-end;
+  text-align: justify;
+  width: 740px;
+  height: 450px;
+  margin-top: 45px;
+  margin-right: 45px;
+  margin-left: 224px;
 }
 
-#second-placeholder
-{
-    display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+#second-placeholder {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
 }
 
-/*#image-author
-{
-    display: flex;
-    background-color: green;
-    width: 398px;
-    height: 50px;
-    margin-left: 113px;
-    margin-top: 22px;
-}
-
-#spotify-song
-{
-    display: flex;
-    justify-content: flex-end;
-    background-color: green;
-    width: 400px;
-    height: 50px;
-    margin-left: 113px;
-    margin-top: 22px;
-    border: 2px solid blue;
+#spotify-song {
+  margin-left: 113px;
+  margin-top: 22px;
+  margin-left: 224px;
+  display: flex;
+  justify-content: flex-end;
 }
 
 /*#footer
@@ -94,5 +73,3 @@ h1{
     margin-top: 22px;
 }
 */
-
-
