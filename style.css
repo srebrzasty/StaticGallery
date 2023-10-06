@@ -1,7 +1,7 @@
 body {
   background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(118,117,122,1) 48%, rgba(0,0,0,1) 100%, rgba(3,1,44,0.050840404521183435) 100%);
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 #navbar,
