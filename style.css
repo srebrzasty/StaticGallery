@@ -1,25 +1,27 @@
 body {
   background-color: #000;
   font-family: 'Lato', sans-serif;
-}
-
+  
 #navbar,
 h1 {
   display: flex;
   justify-content: space-around;
+  text-transform: uppercase;
 }
 
 h1 {
   font-size: 36px;
+  color: #fff;
 }
 
 .menu-bar {
   justify-content: center;
   font-size: 16px;
-  background-color: aliceblue;
+  background-color: lightgrey;
   padding: 15px;
   border: 2px solid grey;
-  border-radius: 10%;
+  border-radius: 15%;
+  margin-left: 20px;
 }
 
 #placeholder {
@@ -40,7 +42,7 @@ h1 {
 }
 
 #image-description-holder {
-  background-color: rgb(207, 221, 247);
+  background-color: lightgray;
   display: flex;
   justify-content: flex-end;
   text-align: justify;
@@ -56,7 +58,7 @@ h1 {
   margin-top: 22px;
   width: 393px;
   height: 80px;
-  background-color: grey;
+  background-color: lightgrey;
   display: inline-block;
   text-align: center;
   float: left;
@@ -71,7 +73,7 @@ h1 {
 }
 
 #footer {
-  background-color: gray;
+  background-color: lightgray;
   width: 1356px;
   height: 50px;
   margin-left: 113px;
